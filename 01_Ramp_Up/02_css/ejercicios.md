@@ -21,10 +21,8 @@ A continuación, encontrarás una lista de ejercicios de CSS:
 
 ### Challenge:
 
-| [🚀 Challenge U2 - CSS](https://stackblitz.com/edit/1-2-css-entregable?file=index.html)  selectores, flexbox y modelo de cajas          | [Resuelto](https://stackblitz.com/edit/1-2-css-entregable-8yahzv?file=index.html)               | 
-| -------------------------------------------------------------------------------------------------------------------------|---------------------------|
-
-
-| [🚀 Challenge U3 - CSS](https://stackblitz.com/edit/1-3-css-entregable?file=index.html)  transiciones, transformaciones, animaciones y media queries  | [Resuelto](https://stackblitz.com/edit/1-3-css-entregable-gtfcft?file=index.html)               |
-| -------------------------------------------------------------------------------------------------------------------------|---------------------------|
+| 🚀 Challenge                                                                                                                               |             |
+| --------------------------------------------------------------------------------------------------------------------------------------------|---------------------------|
+| 1. [U1](https://stackblitz.com/edit/1-2-css-entregable?file=index.html)  selectores, flexbox y modelo de cajas                               | [Resuelto](https://stackblitz.com/edit/1-2-css-entregable-8yahzv?file=index.html)  |
+| 2. [U3](https://stackblitz.com/edit/1-3-css-entregable?file=index.html)  transiciones, transformaciones, animaciones y media queries         | [Resuelto](https://stackblitz.com/edit/1-3-css-entregable-gtfcft?file=index.html)               |
 

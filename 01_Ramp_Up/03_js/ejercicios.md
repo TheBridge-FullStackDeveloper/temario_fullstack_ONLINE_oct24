@@ -20,11 +20,8 @@ A continuación, encontrarás una lista de ejercicios de CSS:
 
 ### Challenge:
 
-| [🚀 Challenge U1 - JS](https://stackblitz.com/edit/2-1-js-entregable?file=index.html)  variables, bucles, operadores, arrays y funciones   | [Resuelto](https://stackblitz.com/edit/2-1-js-entregable-5ggtov?file=index.html)  | 
+| 🚀 Challenge                                                                                                         |             |
 | --------------------------------------------------------------------------------------------------------------------------------------------|---------------------------|
-
-| [🚀 Challenge U2 - JS](https://stackblitz.com/edit/2-2-js-entregable?file=index.html)  condicionales, objetos y métodos de objetos         | [Resuelto](https://stackblitz.com/edit/2-2-js-entregable-wmqhfz?file=index.html)  | 
-| --------------------------------------------------------------------------------------------------------------------------------------------|---------------------------|
-
-| [🚀 Challenge U3 - JS](https://stackblitz.com/edit/examen-rampup?file=index.html)  prueba ramp up                                          |        | 
-| --------------------------------------------------------------------------------------------------------------------------------------------|---------------------------|
+| 1. [U1](https://stackblitz.com/edit/2-1-js-entregable?file=index.html)  variables, bucles, operadores, arrays y funciones   | [Resuelto](https://stackblitz.com/edit/2-1-js-entregable-5ggtov?file=index.html)  | 
+| 2. [U2](https://stackblitz.com/edit/2-2-js-entregable?file=index.html)  condicionales, objetos y métodos de objetos         | [Resuelto](https://stackblitz.com/edit/2-2-js-entregable-wmqhfz?file=index.html)  | 
+| 3. [U3](https://stackblitz.com/edit/examen-rampup?file=index.html)  prueba ramp up                                          |        | 
