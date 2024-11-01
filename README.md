@@ -17,37 +17,28 @@ Aprende sobre HTML; CSS, JavaScript, Express, Node JS, React y bases de datos co
 ###### top
 # Navegación rápida
 
-Nota: para abrir los enlaces en una nueva pestaña CTRL+click (en Windows y Linux) o CMD+click (en MacOS) sobre el link.
-<br>
+- **Ramp Up** **HTML | CSS | JS Fundamentals** [Sprints 1 y 2](#ramp-up)
+- **JS Avanzado | Git | Terminal** Sprints 3 a 8
+- **Backend** Sprints 9 a 15
+- **Frontend** Sprints 18 a 24
 
-### CONTENIDOS
----
-- **[Ramp Up](#ramp-up)** **HTML y CSS** Sprints 1 y 2
-- **JS Avanzado, Git y Terminal** Sprints 3 a 8
-- **Backend Devlopment** Sprints 9 a 15
-- **Frontend - React** Sprints 18 a 24
+###### Nota: para abrir los enlaces en una nueva pestaña CTRL+click (en Windows y Linux) o CMD+click (en MacOS) sobre el link.
 
-
-| Poject Break | Listado de Ejercicios |
-|--------------|-----------------------|
 
 <br/>
 
 # Temario
 
 ##### Ramp Up
-## [HTML](./01_Ramp_Up/01_html/) (Sprint 1)
-
-#### HTML Fundamentos
+## [HTML Fundamentos](./01_Ramp_Up/01_html/) (Sprint 1)
 - Lenguaje de marcado y lado del cliente
 - Encabezados, párrafos, formato de texto, citas, listas, comentarios
 - Enlaces, tablas y etiquetas multimedia
 - Formularios y etiquetas semánticas
 
-## [CSS](./01_Ramp_Up/02_css/) (Sprint 2)
+## [CSS](./01_Ramp_Up/02_css/) (Sprint 1)
 
-### Introducción a CSS
-
+### 1. Introducción a CSS
 - ¿Qué es CSS?
 - Un elemento en CSS
 - Conectando HTML y CSS
@@ -55,10 +46,17 @@ Nota: para abrir los enlaces en una nueva pestaña CTRL+click (en Windows y Linu
 - Display & Flexbox
 
 
-###  CSS_2 Flexbox y Media Queries
-
+###  2. Flexbox y Media Queries
 - Mobile first y media queries
 - Transform, transiciones y animaciones
+
+
+## [JS Fundamentos](./01_Ramp_Up/03_js/) (Sprint 2)
+- Variables y tipos de datos
+- Operadores, Arrays y Bucles
+- Funciones, Condicionales y Objetos
+
+
 
 
 ##### [Volver arriba](#top)
