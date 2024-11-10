@@ -30,13 +30,15 @@ Aprende sobre HTML; CSS, JavaScript, Express, Node JS, React y bases de datos co
 # Temario
 
 ##### Ramp Up
-## [HTML Fundamentos](./01_Ramp_Up/01_html/) (Sprint 1)
+## Sprint 1. HTML y CSS
+## [HTML Fundamentos](./01_Ramp_Up/01_html/)
 - Lenguaje de marcado y lado del cliente
 - Encabezados, párrafos, formato de texto, citas, listas, comentarios
 - Enlaces, tablas y etiquetas multimedia
 - Formularios y etiquetas semánticas
 
-## [CSS](./01_Ramp_Up/02_css/) (Sprint 1)
+## [CSS](./01_Ramp_Up/02_css/) 
+
 
 ### 1. Introducción a CSS
 - ¿Qué es CSS?
@@ -51,11 +53,27 @@ Aprende sobre HTML; CSS, JavaScript, Express, Node JS, React y bases de datos co
 - Transform, transiciones y animaciones
 
 
-## [JS Fundamentos](./01_Ramp_Up/03_js/) (Sprint 2)
+## Sprint 2. [JS Fundamentos](./01_Ramp_Up/03_js/) 
 - Variables y tipos de datos
 - Operadores, Arrays y Bucles
 - Funciones, Condicionales y Objetos
 
+
+##### [Volver arriba](#top)
+
+##### Core
+## [JS_Avanzado](./02_JavaScript_Avanzado)
+
+### SPRINT 3. [TERMINAL Y GIT](./02_JS_avanzado/sprint_3/)
+- Terminal y comandos
+- Git y GitHub
+- DOM, nodos y eventos
+- SetAttribute
+
+### SPRINT 4. [JS Avanzado 1]()
+- Funciones puras y arrays
+- Métodos de array
+- Fetch
 
 
 
