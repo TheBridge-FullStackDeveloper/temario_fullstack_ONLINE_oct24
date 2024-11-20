@@ -18,9 +18,11 @@ Aprende sobre HTML; CSS, JavaScript, Express, Node JS, React y bases de datos co
 # Navegación rápida
 
 - **Ramp Up** **HTML | CSS | JS Fundamentals** [Sprints 1 y 2](#ramp-up)
-- **JS Avanzado | Git | Terminal** Sprints 3 a 8
+- **JS Avanzado | Git | Terminal** [Sprints 3 a 8](#js_avanzado)
 - **Backend** Sprints 9 a 15
 - **Frontend** Sprints 18 a 24
+
+[Challenges Resueltos](https://github.com/BeaSerrano/Challenges)
 
 ###### Nota: para abrir los enlaces en una nueva pestaña CTRL+click (en Windows y Linux) o CMD+click (en MacOS) sobre el link.
 
@@ -70,7 +72,7 @@ Aprende sobre HTML; CSS, JavaScript, Express, Node JS, React y bases de datos co
 - DOM, nodos y eventos
 - SetAttribute
 
-### SPRINT 4. [JS Avanzado 1]()
+### SPRINT 4. [JS Avanzado 1](./02_JS_avanzado/sprint_4/)
 - Funciones puras y arrays
 - Métodos de array
 - Fetch
