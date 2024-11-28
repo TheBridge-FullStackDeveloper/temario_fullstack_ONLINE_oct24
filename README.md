@@ -78,5 +78,13 @@ Aprende sobre HTML; CSS, JavaScript, Express, Node JS, React y bases de datos co
 - Fetch
 
 
-
 ##### [Volver arriba](#top)
+
+### SPRINT 5. [JS Avanzado 2](./02_JS_avanzado/sprint_5/)
+- Destructuring 
+- Spread Operator y Rest Operator
+- Bucles avanzados
+    - Foreach, Map, Reduce, Filter
+- localSotrage y sessionStorage
+- Métodos de objeto
+
