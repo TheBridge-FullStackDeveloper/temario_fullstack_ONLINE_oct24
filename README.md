@@ -15,32 +15,31 @@ Aprende sobre HTML; CSS, JavaScript, Express, Node JS, React y bases de datos co
 <br>
 
 ###### top
-# Navegación rápida
+# 🗺️ Navegación rápida
 
-- **Ramp Up** **HTML | CSS | JS Fundamentals** [Sprints 1 y 2](#ramp-up)
-- **JS Avanzado | Git | Terminal** [Sprints 3 a 8](#js_avanzado)
+- **HTML | CSS | JS Fundamentals** [Sprints 1 y 2](#ramp-up)
+- **JS Avanzado** [Sprints 3 a 8](#js_avanzado)
 - **Backend** Sprints 9 a 15
 - **Frontend** Sprints 18 a 24
 
-[Challenges Resueltos](https://github.com/BeaSerrano/Challenges)
+✅ [Challenges Resueltos](https://github.com/BeaSerrano/Challenges)
 
 ###### Nota: para abrir los enlaces en una nueva pestaña CTRL+click (en Windows y Linux) o CMD+click (en MacOS) sobre el link.
 
 
 <br/>
 
-# Temario
+# 📚 Temario
 
 ##### Ramp Up
-## Sprint 1. HTML y CSS
-## [HTML Fundamentos](./01_Ramp_Up/01_html/)
+### 🚀 SPRINT 1. HTML y CSS
+### [HTML Fundamentos](./01_Ramp_Up/01_html/)
 - Lenguaje de marcado y lado del cliente
 - Encabezados, párrafos, formato de texto, citas, listas, comentarios
 - Enlaces, tablas y etiquetas multimedia
 - Formularios y etiquetas semánticas
 
-## [CSS](./01_Ramp_Up/02_css/) 
-
+### [CSS](./01_Ramp_Up/02_css/) 
 
 ### 1. Introducción a CSS
 - ¿Qué es CSS?
@@ -55,7 +54,7 @@ Aprende sobre HTML; CSS, JavaScript, Express, Node JS, React y bases de datos co
 - Transform, transiciones y animaciones
 
 
-## Sprint 2. [JS Fundamentos](./01_Ramp_Up/03_js/) 
+### 🚀 SPRINT 2. [JS Fundamentos](./01_Ramp_Up/03_js/) 
 - Variables y tipos de datos
 - Operadores, Arrays y Bucles
 - Funciones, Condicionales y Objetos
@@ -64,23 +63,20 @@ Aprende sobre HTML; CSS, JavaScript, Express, Node JS, React y bases de datos co
 ##### [Volver arriba](#top)
 
 ##### Core
-## [JS_Avanzado](./02_JavaScript_Avanzado)
+### [JS_Avanzado](./02_JavaScript_Avanzado)
 
-### SPRINT 3. [TERMINAL Y GIT](./02_JS_avanzado/sprint_3/)
+### 🚀 SPRINT 3. [JS Avanzado 1](./02_JS_avanzado/sprint_3/)
 - Terminal y comandos
 - Git y GitHub
 - DOM, nodos y eventos
 - SetAttribute
 
-### SPRINT 4. [JS Avanzado 1](./02_JS_avanzado/sprint_4/)
+### 🚀 SPRINT 4. [JS Avanzado 2](./02_JS_avanzado/sprint_4/)
 - Funciones puras y arrays
 - Métodos de array
 - Fetch
 
-
-##### [Volver arriba](#top)
-
-### SPRINT 5. [JS Avanzado 2](./02_JS_avanzado/sprint_5/)
+### 🚀 SPRINT 5. [JS Avanzado 3](./02_JS_avanzado/sprint_5/)
 - Destructuring 
 - Spread Operator y Rest Operator
 - Bucles avanzados
@@ -88,3 +84,13 @@ Aprende sobre HTML; CSS, JavaScript, Express, Node JS, React y bases de datos co
 - localSotrage y sessionStorage
 - Métodos de objeto
 
+### 🚀 SPRINT 6. [JS Avanzado 4](./02_JS_avanzado/sprint_6/)
+- Asincronía y promesas 
+- Async/Await
+- Axios
+- API
+
+
+### 🚀🧑🏻‍🚀 SPRINTS 7 y 8. [Project Break 1](./05_project_break/)
+
+##### [Volver arriba](#top)
