@@ -6,8 +6,8 @@ A continuación, encontrarás una lista de ejercicios de JS:
 
 Ejercicio                |                Resuelto   | 
 | -------------------------------------------------------------------------------------------------------------------------|---------------------------|
-| 1. [Promesas](https://stackblitz.com/edit/sprint-06-01-js-asincronia-y-promesas-ejercicio?file=index.html,script.js)                                           |    ❌   |
-| 2. [Async/Await](https://stackblitz.com/edit/sprint-06-01-js-async-await-ejercicio?file=index.html,script.js)       |     ❌   |
+| 1. [Promesas](https://stackblitz.com/edit/sprint-06-01-js-asincronia-y-promesas-ejercicio?file=index.html,script.js)                                           |    [✅](https://stackblitz.com/edit/sprint-06-01-js-asincronia-y-promesas-ejercicio-bwuzeuee?file=script.js)  |
+| 2. [Async/Await](https://stackblitz.com/edit/sprint-06-01-js-async-await-ejercicio?file=index.html,script.js)       |     [✅](https://stackblitz.com/edit/sprint-06-01-js-async-await-ejercicio-w2g1bfki?file=script.js)   |
 
 
 

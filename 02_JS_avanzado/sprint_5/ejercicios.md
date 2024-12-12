@@ -6,8 +6,8 @@ A continuación, encontrarás una lista de ejercicios de JS:
 
 Ejercicio                |                Resuelto   | 
 | -------------------------------------------------------------------------------------------------------------------------|---------------------------|
-| 1. [Spread operator y Destructuring](https://stackblitz.com/edit/sprint-05-01-js-spread-operator-destructuring-ejercicio?file=index.html,script.js)                                           |    ❌   |
-| 2. [LocalStorage](https://stackblitz.com/edit/sprint-05-02-js-localstorage-ejercicio?file=index.html)       |     ❌   |
+| 1. [Spread operator y Destructuring](https://stackblitz.com/edit/sprint-05-01-js-spread-operator-destructuring-ejercicio?file=index.html,script.js)                                           |    [✅](https://stackblitz.com/edit/sprint-05-01-js-spread-operator-destructuring-e-yzaeztm9?file=script.js) |
+| 2. [LocalStorage](https://stackblitz.com/edit/sprint-05-02-js-localstorage-ejercicio?file=index.html)       |     [✅](https://stackblitz.com/edit/sprint-05-02-js-localstorage-ejercicio-5s6thmyb?file=script.js)   |
 
 
         
