@@ -13,7 +13,7 @@ A continuación, encontrarás una lista de ejercicios de HTML:
 
 ### Challenge:
 
-| [🚀 Challenge U1 - HTML](https://stackblitz.com/edit/1-1-html-entregable?file=index.html)                        | [Resuelto](https://stackblitz.com/edit/1-1-html-entregable-9lmtpc?file=index.html)               |
+| [🚀 Challenge U1 - HTML](https://stackblitz.com/edit/1-1-html-entregable?file=index.html)                        | [✅](https://stackblitz.com/edit/1-1-html-entregable-9lmtpc?file=index.html)               |
 | -------------------------------------------------------------------------------------------------------------------------|---------------------------|
 
 
