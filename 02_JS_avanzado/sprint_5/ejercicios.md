@@ -1,4 +1,4 @@
-# Ejercicios JS Avanzado 3
+# Ejercicios JS Avanzado 3 S5
 
 A continuación, encontrarás una lista de ejercicios de JS:
 
@@ -17,6 +17,6 @@ Ejercicio                |                Resuelto   |
 
 Ejercicio                |                Resuelto   | 
 | -------------------------------------------------------------------------------------------------|---------------------------------------------------------------|
-| [ U1 - Usuarios](https://github.com/TheBridge-FullStackDeveloper/users)                          | [✅](https://github.com/CarlosDiazGirol/users)               |
-| [ U2 - Contador - Page Visit](https://github.com/TheBridge-FullStackDeveloper/pagesvisit)        | [✅](https://github.com/CarlosDiazGirol/pagesvisit-resolve)  |
-| [ TC - Chistes de Chuck Norris](https://github.com/TheBridge-FullStackDeveloper/chuckListJoke)   | [✅](https://github.com/CarlosDiazGirol/chuckListJoke)       |
+| U1 [Usuarios](https://github.com/TheBridge-FullStackDeveloper/users)                          | [✅](https://github.com/CarlosDiazGirol/users)               |
+| U2 [Contador - Page Visit](https://github.com/TheBridge-FullStackDeveloper/pagesvisit)        | [✅](https://github.com/CarlosDiazGirol/pagesvisit-resolve)  |
+| TC [Chistes de Chuck Norris](https://github.com/TheBridge-FullStackDeveloper/chuckListJoke)   | [✅](https://github.com/CarlosDiazGirol/chuckListJoke)       |

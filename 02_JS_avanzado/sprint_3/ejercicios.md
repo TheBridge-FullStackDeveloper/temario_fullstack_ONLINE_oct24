@@ -1,4 +1,4 @@
-# Ejercicios JS Avanzado 1
+# Ejercicios JS Avanzado 1 S3
 
 A continuación, encontrarás una lista de ejercicios de JS:
 
@@ -14,7 +14,7 @@ Ejercicio                                                                       
 
 Ejercicio                                                                                                           |          Resuelto          | 
 | ------------------------------------------------------------------------------------------------------------------|---------------------------|
-| [ U1 - Landing Page](https://github.com/TheBridge-FullStackDeveloper/FS_Online_Oct_Entregable_Landing_Page)       | [✅](https://github.com/CarlosDiazGirol/FS_Online_Oct_Entregable_Landing_Page)               |
-| [ U2 - add elements DOM](https://github.com/TheBridge-FullStackDeveloper/add-elements-dom)                        | [✅](https://github.com/CarlosDiazGirol/add-elements-resolve)        |
-| [ TC - piedra papel tijera](https://github.com/TheBridge-FullStackDeveloper/FS_Online_Oct_TC_piedra-papel-tijera) | [❌]()  |
+| U1 [Landing Page](https://github.com/TheBridge-FullStackDeveloper/FS_Online_Oct_Entregable_Landing_Page)       | [✅](https://github.com/CarlosDiazGirol/FS_Online_Oct_Entregable_Landing_Page)               |
+| U2 [add elements DOM](https://github.com/TheBridge-FullStackDeveloper/add-elements-dom)                        | [✅](https://github.com/CarlosDiazGirol/add-elements-resolve)        |
+| TC [piedra papel tijera](https://github.com/TheBridge-FullStackDeveloper/FS_Online_Oct_TC_piedra-papel-tijera) | [✅](https://github.com/CarlosDiazGirol/CarlosDiazGirol-rock-paper-scissors-resolve)  |
 

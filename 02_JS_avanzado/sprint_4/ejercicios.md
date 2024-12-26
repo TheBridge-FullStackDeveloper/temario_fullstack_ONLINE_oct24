@@ -1,4 +1,4 @@
-# Ejercicios JS Avanzado 2
+# Ejercicios JS Avanzado 2 S5
 
 A continuación, encontrarás una lista de ejercicios de JS:
 
@@ -17,7 +17,7 @@ Ejercicio                |                Resuelto   |
 
 Ejercicio                |                Resuelto   | 
 | -------------------------------------------------------------------------------------------------------------------------|---------------------------|
-| [ U1 - DevelopFlix](https://github.com/TheBridge-FullStackDeveloper/Developflix)                        | [✅](https://github.com/CarlosDiazGirol/developflix-resuelto)               |
-| [ U2 - Rick y Morty](https://github.com/TheBridge-FullStackDeveloper/rick-and-morty-characters)                        | [✅](https://github.com/CarlosDiazGirol/rick-and-morty-characters-resuelto)        |
-| [ TC - Select Pokemon](https://github.com/TheBridge-FullStackDeveloper/select-pokemon)                    | [✅](https://github.com/CarlosDiazGirol/select-pokemon-resuelto)        |
+| U1 [DevelopFlix](https://github.com/TheBridge-FullStackDeveloper/Developflix)                        | [✅](https://github.com/CarlosDiazGirol/developflix-resuelto)               |
+| U2 [Rick y Morty](https://github.com/TheBridge-FullStackDeveloper/rick-and-morty-characters)                        | [✅](https://github.com/CarlosDiazGirol/rick-and-morty-characters-resuelto)        |
+| TC [Select Pokemon](https://github.com/TheBridge-FullStackDeveloper/select-pokemon)                    | [✅](https://github.com/CarlosDiazGirol/select-pokemon-resuelto)        |
 
