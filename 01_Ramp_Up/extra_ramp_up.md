@@ -3,6 +3,6 @@
 A continuación, encontrarás los enlaces al la tarea y la solución:
 
 
-Tarea - Recuperación                                                                                |                Resuelto   | 
+Tarea - Recuperación                                                                     |                Resuelto   | 
 | ---------------------------------------------------------------------------------------|---------------------------|
-| [Ejercicio](https://github.com/BeaSerrano/ExtraRampUp)   | [✅](https://github.com/BeaSerrano/ExtraRampUp)   |
+| [Ejercicio](https://github.com/BeaSerrano/ExtraRampUp)   | [✅](https://github.com/BeaSerrano/Challenges/tree/main/Extra/Prueba-RampUp)   |

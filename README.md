@@ -19,10 +19,11 @@ Aprende sobre HTML; CSS, JavaScript, Express, Node JS, React y bases de datos co
 
 - **HTML | CSS | JS Fundamentals** [Sprints 1 y 2](#ramp-up)
 - **JS Avanzado** [Sprints 3 a 8](#js_avanzado)
-- **Backend** Sprints 9 a 15
+- **Backend** [Sprints 9 a 15](#backend)
 - **Frontend** Sprints 18 a 24
 
 ✅ [Challenges Resueltos](https://github.com/BeaSerrano/Challenges)
+<!-- 📽️ [Vídeos - Clases](./assets/videos.md) -->
 
 ###### Nota: para abrir los enlaces en una nueva pestaña CTRL+click (en Windows y Linux) o CMD+click (en MacOS) sobre el link.
 
@@ -117,3 +118,18 @@ Aprende sobre HTML; CSS, JavaScript, Express, Node JS, React y bases de datos co
 - Enrutamiento modular
 - Manejo de Archivos Estáticos
 - Instalación y configuración
+
+### 🚀 SPRINT 11. [API Rest y Scrapping](./03_Backend/sprint_11/)
+- Creación de una API REST con Express.js
+- Definición de Rutas y Métodos
+- Pruebas de la API
+- CRUD
+- Scraping con JavaScript: Axios y Cheeri
+
+### 🚀 SPRINT 12. [AUTH0 JWT y Fetch / Axios](./03_Backend/sprint_12/)
+- Que es Auth0 JWT
+- JSON Web Tokens (JWT)
+- Bcrypt
+- Middleware para Sesiones, Bcrypt y JWT
+- CORS
+
