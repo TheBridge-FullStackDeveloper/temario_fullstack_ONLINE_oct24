@@ -1,6 +1,5 @@
 # Ejercicios Backend S11
 
-A continuación, encontrarás una lista de ejercicios de JS:
 
 ## 📚 Workout
 

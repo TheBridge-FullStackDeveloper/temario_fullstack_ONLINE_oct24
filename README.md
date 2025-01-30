@@ -22,7 +22,8 @@ Aprende sobre HTML; CSS, JavaScript, Express, Node JS, React y bases de datos co
 - **Backend** [Sprints 9 a 15](#backend)
 - **Frontend** Sprints 18 a 24
 
-✅ [Challenges Resueltos](https://github.com/BeaSerrano/Challenges)
+✅ [Challenges Resueltos](https://github.com/BeaSerrano/Challenges)\
+✅ [Stackblitz - Resueltos](https://stackblitz.com/@BeaSerrano/collections/fs-24-10)
 <!-- 📽️ [Vídeos - Clases](./assets/videos.md) -->
 
 ###### Nota: para abrir los enlaces en una nueva pestaña CTRL+click (en Windows y Linux) o CMD+click (en MacOS) sobre el link.

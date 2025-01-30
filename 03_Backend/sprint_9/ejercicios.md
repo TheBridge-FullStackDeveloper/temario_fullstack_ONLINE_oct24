@@ -1,5 +1,4 @@
 # Ejercicios Backend S9
-A continuación, encontrarás una lista de ejercicios de JS:
 
 ## 📚 Workout
 
