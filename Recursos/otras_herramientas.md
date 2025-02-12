@@ -74,7 +74,11 @@ Herramientas y recursos que hemos visto durante el Bootcamp y otras recomedables
 - **Error Lens**
 	- Mrca los errores y advertencias con un icono en la parte superior de la línea que contiene el error. 
     - También proporciona información adicional sobre el error, como el número de línea, el tipo de error y el mensaje de error.
-- **Version Lens** Ayuda a administrar tus dependencias del package.json permitiéndote acutalizarlas desdel el mismo.
+- **Version Lens**
+	- Ayuda a administrar tus dependencias del package.json permitiéndote actualizarlas desde el mismo. Indicadores de estado:
+		- 🔴 Muy desactualizada: La versión está muy atrasada y puede haber problemas de compatibilidad o seguridad.
+		- 🟡 Desactualizada, pero no grave: Hay una versión más reciente, pero la actual sigue siendo funcional.
+		- 🟢 Última versión: Estás usando la versión más actualizada y estable.
 
 
 Hay muchísimas extensiones de VSC super interesantes, como por ejemplo, iconos personalizados, te animo a que investigues por tu cuenta y veas el gran abanico de posibilidades que ofrecen.
