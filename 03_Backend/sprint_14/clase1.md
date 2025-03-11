@@ -97,3 +97,111 @@ test("renderizar un componente correctamente", () => {
   expect(componente).toMatchSnapshot();
 });
 ```
+
+---
+
+# SUPERTEST 
+### librería de JavaScript diseñada para facilitar la prueba de APIs HTTP
+
+
+**Supertest** es una librería de JavaScript diseñada para facilitar la prueba de APIs HTTP, especialmente en aplicaciones construidas con **Node.js** y **Express**. 
+
+Proporciona una interfaz sencilla y fluida para realizar solicitudes HTTP (como GET, POST, PUT, DELETE, etc.) y verificar las respuestas, incluyendo el código de estado, cabeceras y cuerpo de la respuesta.
+
+### ¿Por qué usar Supertest?
+- **Facilita las pruebas**: Permite escribir pruebas de integración de manera sencilla.
+- **Integración con Mocha/Jest**: Funciona bien con frameworks de testing como Mocha o Jest.
+- **Simula solicitudes HTTP**: No necesitas levantar un servidor real para probar tus endpoints.
+
+### Instalación
+Para usar Supertest, primero debes instalarlo junto con un framework de testing como Mocha o Jest:
+
+```bash
+npm install supertest mocha --save-dev
+```
+
+### Uso básico con Node.js, Express y Mocha
+
+1. **Crear una aplicación Express**:
+   Supongamos que tienes una aplicación Express simple:
+
+   ```javascript
+   // app.js
+   const express = require('express');
+   const app = express();
+
+   app.get('/api/greet', (req, res) => {
+     res.json({ message: 'Hola, mundo!' });
+   });
+
+   module.exports = app;
+   ```
+
+2. **Escribir una prueba con Supertest**:
+   Crea un archivo de prueba (por ejemplo, `test/app.test.js`):
+
+   ```javascript
+   const request = require('supertest');
+   const app = require('../app'); // Importa tu aplicación Express
+
+   describe('GET /api/greet', () => {
+     it('debe responder con un mensaje de saludo', (done) => {
+       request(app)
+         .get('/api/greet') // Realiza una solicitud GET al endpoint
+         .expect(200) // Espera un código de estado 200
+         .expect('Content-Type', /json/) // Espera un contenido tipo JSON
+         .end((err, res) => {
+           if (err) return done(err); // Si hay un error, termina la prueba
+           // Verifica el cuerpo de la respuesta
+           if (res.body.message !== 'Hola, mundo!') {
+             return done(new Error('El mensaje no coincide'));
+           }
+           done(); // Finaliza la prueba
+         });
+     });
+   });
+   ```
+
+3. **Ejecutar las pruebas**:
+   Usa Mocha para ejecutar las pruebas:
+
+   ```bash
+   npx mocha test/app.test.js
+   ```
+
+
+### Ejemplo con Jest
+Si prefieres usar Jest en lugar de Mocha, el proceso es similar:
+
+1. Instala Jest:
+   ```bash
+   npm install jest --save-dev
+   ```
+
+2. Escribe la prueba con Jest:
+   ```javascript
+   const request = require('supertest');
+   const app = require('../app');
+
+   describe('GET /api/greet', () => {
+     it('debe responder con un mensaje de saludo', async () => {
+       const response = await request(app)
+         .get('/api/greet')
+         .expect(200)
+         .expect('Content-Type', /json/);
+
+       expect(response.body.message).toBe('Hola, mundo!');
+     });
+   });
+   ```
+
+3. Ejecuta las pruebas con Jest:
+   ```bash
+   npx jest
+   ```
+
+### Ventajas de Supertest
+- **Fácil de usar**: La sintaxis es intuitiva y fluida.
+- **No requiere un servidor en ejecución**: Simula las solicitudes HTTP sin necesidad de levantar un servidor real.
+- **Integración con frameworks de testing**: Funciona bien con Mocha, Jest, y otros.
+

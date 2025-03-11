@@ -100,7 +100,7 @@ Aprende sobre HTML; CSS, JavaScript, Express, Node JS, React y bases de datos co
 ### [BACKEND](./03_Backend/)
 
 ### 🚀 SPRINT 9. [node.js](./03_Backend/sprint_9/)
-- Que es Node.js
+- Qué es Node.js
 - Asincronía y Eventos
 - Modulos
 - Modulo HTTP
@@ -112,7 +112,7 @@ Aprende sobre HTML; CSS, JavaScript, Express, Node JS, React y bases de datos co
 - Rutas y Métodos HTTP
 
 ### 🚀 SPRINT 10. [express.js](./03_Backend/sprint_10/)
-- Que es Express.js
+- Qué es Express.js
 - Rutas
 - Middlewares
 - Plantillas de vistas
@@ -128,7 +128,7 @@ Aprende sobre HTML; CSS, JavaScript, Express, Node JS, React y bases de datos co
 - Scraping con JavaScript: Axios y Cheeri
 
 ### 🚀 SPRINT 12. [AUTH0 JWT y Fetch / Axios](./03_Backend/sprint_12/)
-- Que es Auth0 JWT
+- Qué es Auth0 JWT
 - JSON Web Tokens (JWT)
 - Bcrypt
 - Middleware para Sesiones, Bcrypt y JWT
@@ -141,4 +141,35 @@ Aprende sobre HTML; CSS, JavaScript, Express, Node JS, React y bases de datos co
     - MySQL - Estructuras y Consultas Básicas
     - Consultas y comandos
 
+### 🚀 SPRINT 14. [TESTING / MongoDB y Mongoose](./03_Backend/sprint_14/)
+
+- #### TESTING: Jest y Supertest
+- Qué es Jest
+- Pruebas unitarias
+- Matchers
+- Mocks y Espías Integrados
+- Pruebas Asíncronas
+- Snapshot Testing
+
+- #### MongoDB y Mongoose
+- Introducción a MongoDB
+- Documentos y Colecciones
+- Mongoose: Modelado de Datos para MongoDB en Node.js
+- Definición de Esquemas y Modelos con Mongoose
+- Operaciones CRUD Básicas con Mongoose
+
+### 🚀 SPRINT 15. [DOCUMENTACIÓN y DEPLOY ](./03_Backend/sprint_15/)
+- DOCUMENTAFCIÓN con Swagger y Swagger UI
+- DEPLOY con Render
+
+
+### 🚀🧑🏻‍🚀 SPRINTS 16 y 17. [Project Break 2](./05_project_break/)
+
+### 🚀 SPRINT 18. [REACT y CLEANCODE ](./03_Backend/sprint_15/)
+- Introducción a React
+- JSX en React
+- Componentes en React
+- El Hook useState
+
 ##### [Volver arriba](#top)
+
