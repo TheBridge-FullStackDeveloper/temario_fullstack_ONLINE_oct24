@@ -135,15 +135,14 @@ Aprende sobre HTML; CSS, JavaScript, Express, Node JS, React y bases de datos co
 - CORS
 
 ### 🚀 SPRINT 13. [SQL](./03_Backend/sprint_13/)
-- #### EXPRESS JS y SQL
     - Instalación
     - SQL Tipos de Datos
     - MySQL - Estructuras y Consultas Básicas
     - Consultas y comandos
 
-### 🚀 SPRINT 14. [TESTING / MongoDB y Mongoose](./03_Backend/sprint_14/)
+### 🚀 SPRINT 14. [TESTING, MongoDB y Mongoose](./03_Backend/sprint_14/)
 
-- #### TESTING: Jest y Supertest
+#### TESTING: Jest y Supertest
 - Qué es Jest
 - Pruebas unitarias
 - Matchers
@@ -151,7 +150,7 @@ Aprende sobre HTML; CSS, JavaScript, Express, Node JS, React y bases de datos co
 - Pruebas Asíncronas
 - Snapshot Testing
 
-- #### MongoDB y Mongoose
+#### MongoDB y Mongoose
 - Introducción a MongoDB
 - Documentos y Colecciones
 - Mongoose: Modelado de Datos para MongoDB en Node.js
@@ -170,6 +169,7 @@ Aprende sobre HTML; CSS, JavaScript, Express, Node JS, React y bases de datos co
 - JSX en React
 - Componentes en React
 - El Hook useState
+- Cleancode
 
 ##### [Volver arriba](#top)
 
