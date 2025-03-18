@@ -1,14 +1,5 @@
 # Ejercicios Backend S9
 
-## 📚 Workout
-
-Ejercicio                |                Resuelto   | 
-| ------------------------------------------------------------------------------------------------------------------|---------------------------|
-| 1. [Node: Módulos y funciones](https://stackblitz.com/edit/1-1-node-mdulos-y-funciones-ejercicio?file=index.js)   | [✅](https://stackblitz.com/edit/1-1-node-mdulos-y-funciones-ejercicio-q3dd4m?file=readme.md)    |
-| 2. [Node: HTTP - EJERCICIO](https://stackblitz.com/edit/2-1-node-http-ejercicio?file=index.js)                    | [✅](https://stackblitz.com/edit/2-1-node-http-ejercicio?file=index.js)                          |
-
-
-
 ## 🚀 Challenge:
 
 Ejercicio                |                Resuelto   | 

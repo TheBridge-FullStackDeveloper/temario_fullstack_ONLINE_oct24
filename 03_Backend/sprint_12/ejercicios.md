@@ -1,16 +1,5 @@
 # Ejercicios Backend S12
 
-
-## 📚 Workout
-
-Ejercicio                |                Resuelto   | 
-| -------------------------------------------------------------------------------------------------------------------------|---------------------------|
-| 1. [AUTH0 - JWT](https://stackblitz.com/edit/6-1-node-js-express-auth0-jwt-clase?file=index.js)                                           |    [✅](https://stackblitz.com/edit/6-1-node-js-express-auth0-jwt-clase-resuelto?file=index.js)  |
-| 2. Fetch / Axios  (a partir de video-clase)    |     ❌   |
-
-
-
-
 ## 🚀 Challenge:
 
 Ejercicio                |                Resuelto   | 

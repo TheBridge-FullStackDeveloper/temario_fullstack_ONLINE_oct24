@@ -1,16 +1,5 @@
 # Ejercicios Backend S11
 
-
-## 📚 Workout
-
-Ejercicio                |                Resuelto   | 
-| -------------------------------------------------------------------------------------------------------------------------|---------------------------|
-| 1. [node-express-api-rest](https://stackblitz.com/edit/5-1-node-js-express-api-rest-clase?file=index.js)                                           |    [✅](https://stackblitz.com/edit/4-1-node-express-api-rest-create-read?file=app.js)  |
-| 2. [scraping](https://github.com/TheBridge-FullStackDeveloper/scraping-clase)       |     [❌]()   |
-
-
-
-
 ## 🚀 Challenge:
 
 Ejercicio                |                Resuelto   | 

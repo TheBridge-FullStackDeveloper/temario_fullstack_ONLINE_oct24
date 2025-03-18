@@ -1,16 +1,5 @@
 # Ejercicios Backend S10
 
-
-## 📚 Workout
-
-Ejercicio                |                Resuelto   | 
-| -------------------------------------------------------------------------------------------------------------------------|---------------------------|
-| 1. [Express](https://stackblitz.com/edit/3-1-node-express-ejercicio?file=readme.md)                                           |    [✅](https://stackblitz.com/edit/3-1-node-express-ejercicio-resuelto?file=index.js)  |
-| 2. [middlewares](https://stackblitz.com/edit/4-1-node-middlewares-ejercicio?file=readme.md)       |     [✅](https://stackblitz.com/edit/4-1-node-middlewares-ejercicio-resuelto?file=app.js)   |
-
-
-
-
 ## 🚀 Challenge:
 
 Ejercicio                |                Resuelto   | 

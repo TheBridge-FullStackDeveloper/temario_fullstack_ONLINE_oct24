@@ -1,16 +1,5 @@
 # Ejercicios Backend S13
 
-
-## 📚 Workout
-
-Ejercicio                |                Resuelto   | 
-| -----------------------|---------------------------|
-| 1. SQL - Workbench  - Se hace desde workbench a partir de la video-clase  |  ❌ |
-| 2. SQL - Workbench  - Se hace desde workbench a partir de la video-clase  |  ❌ |
-
-
-
-
 ## 🚀 Challenge:
 
 Ejercicio                |                Resuelto   | 
